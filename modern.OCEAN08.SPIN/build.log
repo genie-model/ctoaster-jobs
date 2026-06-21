@@ -1,0 +1,8 @@
+scons: Entering directory `/home/mushroom/ctoaster.carrotcake-jobs/MODELS/DEVELOPMENT/ubuntu/ship'
+scons: Reading SConscript files ...
+Using platform "ubuntu"
+Mkdir(["atchem", "biogem", "embm", "ents", "gemlite", "goldstein", "goldsteinseaice", "rokgem", "sedgem", "common", "utils", "wrappers"])
+scons: done reading SConscript files.
+scons: Building targets ...
+scons: `.' is up to date.
+scons: done building targets.

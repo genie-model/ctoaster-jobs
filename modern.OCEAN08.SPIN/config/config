@@ -1,0 +1,7 @@
+base_config_dir: /home/mushroom/ctoaster.carrotcake-data/base-configs
+base_config: modern.OCEAN08
+user_config_dir: /home/mushroom/ctoaster.carrotcake-data/user-configs
+user_config: modern.OCEAN08.SPIN
+config_date: 2026-06-18 21:49:03.331556
+run_length: 10000
+t100: False
